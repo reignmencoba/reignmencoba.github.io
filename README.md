@@ -14,6 +14,5 @@ src="https:raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp">
 <div class="btn-group"> <button class="yes-btn">yes</button> <button class="no-btn">No</button>
 </div>
 </div>
-<script src="script.js"></script>
 </body>
 </html>
